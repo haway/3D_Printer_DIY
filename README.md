@@ -44,6 +44,17 @@
 * 韌體/軟體 
 * 調教
 * 測試
+* 
+
+## README.md 格式 ##
+
+```
+$ ./preview_github_readme README.md
+```
+
+link in text `http://localhost/`
+
+
 
 
 
