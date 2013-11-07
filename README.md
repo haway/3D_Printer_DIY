@@ -2,7 +2,7 @@
 =======================
 
 
-(請先看這個)參考資料:https://github.com/open3dengineering/Prusa-i3
+(請先看這個)參考資料:https://github.com/open3dengineering/Prusa-i3 <br>
 考資料:http://reprap.org/wiki/Prusa_i3_Build_Manual <br>
 
 
