@@ -4,6 +4,7 @@
 
 (請先看這個)參考資料:https://github.com/open3dengineering/Prusa-i3 <br>
 考資料:http://reprap.org/wiki/Prusa_i3_Build_Manual <br>
+Taiwan 3D Printing Group Facebook: https://www.facebook.com/groups/427010570716215/
 
 
 目前看到幾個機型, 不確定是否相同:
@@ -27,6 +28,9 @@ Prusa i3
 
 零件表位置: https://github.com/open3dengineering/Prusa-i3/blob/master/Manual/BuildManual%20i3.pdf <br>
 請把第一頁的東西全部買到
+
+3D printing 社團提供的五金採購地點
+https://docs.google.com/spreadsheet/pub?key=0ApabUwkcTEfrdHlDYUQyQmt2clQ4OXo0TmZOM2dfdmc&output=html
 
 
 ### 收集模具零件 ###
@@ -69,7 +73,6 @@ http://0rz.tw/MRDgE
 * 韌體/軟體 
 * 調教
 * 測試
-* 
 
 ## README.md 格式 ##
 
