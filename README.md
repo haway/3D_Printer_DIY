@@ -2,9 +2,14 @@
 =======================
 
 
+參考資料
+========
+
 (請先看這個)參考資料:https://github.com/open3dengineering/Prusa-i3 <br>
 考資料:http://reprap.org/wiki/Prusa_i3_Build_Manual <br>
-Taiwan 3D Printing Group Facebook: https://www.facebook.com/groups/427010570716215/
+h簡中的版本:ttp://reprap.org/wiki/Prusa_i3_Build_Manual/zh_cn <br>
+Taiwan 3D Printing Group Facebook: https://www.facebook.com/groups/427010570716215/ <br>
+中文的說明組裝文件: http://diy3dprint.blogspot.tw/2013/10/prusa-i3-3d-diy.html <br>
 
 
 目前看到幾個機型, 不確定是否相同:
